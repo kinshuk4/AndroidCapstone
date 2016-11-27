@@ -38,3 +38,15 @@ captures/
 
 # Keystore files
 *.jks
+
+# OSX files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# vi swap files
+*.swp
+
+# backup files
+*.bak
